@@ -18,7 +18,7 @@ ms.locfileid: "53153948"
 C# es un lenguaje elegante, con seguridad de tipos y orientado a objetos, que permite a los desarrolladores crear una gran variedad de aplicaciones seguras y sólidas que se ejecutan en [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)] .NET. Puede usar C# para crear aplicaciones cliente de Windows, servicios web XML, componentes distribuidos, aplicaciones cliente-servidor, aplicaciones de base de datos y muchas, muchas más cosas. Visual C# proporciona un editor de código avanzado, prácticos diseñadores de interfaz de usuario, un depurador integrado y muchas otras herramientas que facilitan el desarrollo de aplicaciones basadas en el lenguaje C# y [!INCLUDE[dnprdnshort](~/includes/dnprdnshort-md.md)].  
   
 > [!NOTE]
-> En la documentación de Visual C# se supone que comprende los conceptos básicos de programación. Si es principiante, puede que quiera examinar Visual C# Express, que está disponible en Internet. También puede aprovechar los libros y recursos web sobre C# para aprender sobre habilidades prácticas de programación.  
+> En la documentación de Visual C# se encargara de comprender los conceptos básicos de programación. Si es principiante, puede que quiera examinar Visual C# Express, que está disponible en Internet. También puede aprovechar los libros y recursos web sobre C# para aprender sobre habilidades prácticas de programación.  
   
 ## <a name="c-language"></a>Lenguaje C#
 
