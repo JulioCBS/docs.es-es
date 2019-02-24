@@ -34,7 +34,7 @@ Normalmente, los archivos de código fuente de C# tienen la extensión de archiv
 csc hello.cs
 ```
 
-que genera un ensamblado ejecutable denominado hello.exe. La salida que genera la aplicación cuando se ejecuta es:
+Se produce un ensamblado ejecutable denominado hello.exe. La salida que genera la aplicación, cuando se ejecuta es:
 
 ```console
 Hello, World
