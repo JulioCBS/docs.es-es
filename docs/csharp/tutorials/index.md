@@ -11,7 +11,7 @@ ms.locfileid: "54084672"
 ---
 # <a name="c-tutorials"></a>Tutoriales de C#
 
-Le damos la bienvenida a los tutoriales de C#. Comenzara con lecciones interactivas que se pueden ejecutar en el explorador. Los tutoriales posteriores y los más avanzados le ayudan a trabajar con las herramientas de desarrollo de .NET para crear programas de C# en su máquina.
+Le damos la bienvenida a los tutoriales de C#. Comenzará con lecciones interactivas que se pueden ejecutar en el explorador. Los tutoriales posteriores y los más avanzados le ayudan a trabajar con las herramientas de desarrollo de .NET para crear programas de C# en su máquina.
 
 ## <a name="introduction-to-c-interactive-tutorials"></a>Tutoriales interactivos de introducción a C# #
 
